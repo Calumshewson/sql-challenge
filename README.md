@@ -1,1 +1,2 @@
-# sql-challenge
+A challenging dive into SQL techniques. Within this challenge is a mix of data modelling, engineering, and analytics. The challenge begins by constructing an Entity Relationship Diagram, assigning Primary and Foreign Keys to create a visualization.
+Next is the creation of data tables to slot the uploaded csv data. Thus we construct the Table Schema. Lastly an analysis of the constructed data is performed in the query schema. 
